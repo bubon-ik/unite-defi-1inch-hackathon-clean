@@ -20,7 +20,7 @@ __metadata:
   linkType: hard
 
 "@adraffy/ens-normalize@npm:1.10.1":
-  version: 1.10.1
+  version: 1.10.1 
   resolution: "@adraffy/ens-normalize@npm:1.10.1"
   checksum: 0836f394ea256972ec19a0b5e78cb7f5bcdfd48d8a32c7478afc94dd53ae44c04d1aa2303d7f3077b4f3ac2323b1f557ab9188e8059978748fdcd83e04a80dcc
   languageName: node
